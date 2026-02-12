@@ -7,6 +7,7 @@ jordanbaird-ice@beta
 jupyter-notebook-viewer
 logi-options+
 obsidian
+ollama-app
 postman
 qlmarkdown
 visual-studio-code
