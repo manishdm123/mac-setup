@@ -107,5 +107,5 @@ FORMULAE_FILE=/path/to/formulae.txt \
   bash -n setup.sh lib/util.sh lib/brew.sh
   ```
 ## Manual Steps
-Install OMZ https://ohmyz.sh/#install
-https://lowtechguys.com/rcmd/
+- Install OMZ https://ohmyz.sh/#install
+- https://lowtechguys.com/rcmd/
