@@ -1,6 +1,7 @@
 # CLI tools / formulae
 uv
 tlrc
+tree
 colima
 docker
 docker-compose
