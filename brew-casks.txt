@@ -1,0 +1,17 @@
+# GUI apps (Homebrew Casks)
+arc
+alt-tab
+betterdisplay
+calendr
+jordanbaird-ice@beta
+jupyter-notebook-viewer
+logi-options+
+obsidian
+postman
+qlmarkdown
+visual-studio-code
+sublime-text
+raycast
+trex
+reminders-menubar
+rectangle

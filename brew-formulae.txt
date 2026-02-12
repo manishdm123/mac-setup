@@ -1,0 +1,9 @@
+# CLI tools / formulae
+uv
+tlrc
+colima
+docker
+docker-compose
+miniconda
+node
+zsh-autosuggestions
